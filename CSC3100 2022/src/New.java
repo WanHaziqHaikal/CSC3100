@@ -1,16 +1,19 @@
 
 public class New {
  public static void main (String[] args) {
-	 
-	 
-	 
-	 double radius =20;
+	 //1. declare variable
+	 double radius;
 	 double PI = 3.14159;
+	
+	
+	//2. assign value radius
+	 radius= 20;
+	
+	//3. calculation
 	double area = radius*radius*PI;
 	
-	System.out.println ( area);
-	 
-	 
+	//4. output	
+	System.out.println ( area); 
 	 
 	 
  }
@@ -18,19 +21,7 @@ public class New {
 	 
 	 
 	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
+	
 
  }
 	/* int i= 10;
